@@ -90,6 +90,4 @@ These results indicate that the model is able to capture the overall trend of th
 - The prediction curve shows an **upward trend**, consistent with historical movement
 - The green line in the final plot represents **predicted closing prices**
 
----
 
-## 📁 Project Structure
